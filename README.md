@@ -3,7 +3,7 @@
 <hr/>
 
 #### Migration Notice
->Aries Code Repositories are in the process of being migrated from various other locations, including Hyperledger Indy [repositories where the Aries work was incubated](https://github.com/hyperledger/indy-hipe/blob/master/README.md). Some of the code requires refactoring work to split it from unrelated assets prior to migration.
+>As of June 2019, Aries code repositories are being rapidly populated from various other locations, including Hyperledger Indy [repositories where the Aries work was incubated](https://github.com/hyperledger/indy-hipe/blob/master/README.md). Some of the code requires refactoring work to split it from unrelated assets prior to migration.
 
 >The status of these code migrations is under regular discussion on the [#aries](https://chat.hyperledger.org/channel/aries) and [#indy-agent](https://chat.hyperledger.org/channel/indy-agent) channels on chat.hyperledger.org and in the [Aries Working Group](https://wiki.hyperledger.org/display/ARIES/Aries+Working+Group) weekly call. Please join us there to understand migration status and help identify places where help is needed.
 
