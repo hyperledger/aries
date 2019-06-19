@@ -32,21 +32,22 @@ problems with decentralized identity should start with an agent framework such a
 
 [TODO: THESE LINKS ARE NOT YET ACTIVE]
 
-* [aries-agent-python](https://github.com/hyperledger/aries-agent-python)
-* [aries-agent-java](https://github.com/hyperledger/aries-agent-java)
-* [aries-agent-nodejs](https://github.com/hyperledger/aries-agent-nodejs)
-* [aries-agent-dotnet](https://github.com/hyperledger/aries-agent-dotnet)
-* [aries-agent-rust](https://github.com/hyperledger/aries-agent-rust)
+* [aries-agent-python](https://github.com/hyperledger/aries-agent-python/README.md)
+* [aries-agent-java](https://github.com/hyperledger/aries-agent-java/README.md)
+* [aries-agent-nodejs](https://github.com/hyperledger/aries-agent-nodejs/README.md)
+* [aries-agent-dotnet](https://github.com/hyperledger/aries-agent-dotnet/README.md)
+* [aries-agent-rust](https://github.com/hyperledger/aries-agent-rust/README.md)
 
-If you want to understand the theory and the open standards that these frameworks
-implement, then you should visit:
+If you want to understand the theory and the [open standards that these frameworks
+implement](https://github.com/hyperledger/aries-rfcs/index.md), then you should visit:
 
-* [aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+* [aries-rfcs](https://github.com/hyperledger/aries-rfcs/README.md)
 
 If you want to work on the low-level features that underpin all the agent
-frameworks, then the repo you want is:
+frameworks, then the repos you want are:
 
-* [aries-sdk](https://github.com/hyperledger/aries-rfcs)
+* [aries-sdk](https://github.com/hyperledger/aries-sdk/README.md)
+* [aries-protocol-test-suite](https://github.com/hyperledger/aries-protocol-test-suite/README.md)
 
 ### Relationship to Hyperledger Indy
 
