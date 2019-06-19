@@ -54,7 +54,9 @@ frameworks, then the repo you want is:
 is all about decentralized identity, like Aries. However, Indy is
 focused on a [specific blockchain purpose-built for identity](
 https://github.com/hyperledger/indy-node/blob/master/README.md), whereas Aries is
-blockchain-agnostic.
+blockchain-agnostic. In the long run, we expect most community members to build
+directly on Aries; Aries will incorporate Indy support along with support for
+other ecosystems as it matures.
 
 Much of the work done in Indy SDK between 2017 and 2019 was actually blockchain-agnostic,
 and the developers in that community began formalizing many concepts related to agents
