@@ -1,5 +1,7 @@
 ![Hyperledger Aries](collateral/Hyperledger_Aries_Logo_Color.png)
 
+<hr/>
+
 #### Migration Notice
 >Aries Code Repositories are in the process of being migrated from various other locations, including Hyperledger Indy [repositories where the Aries work was incubated](https://github.com/hyperledger/indy-hipe/blob/master/README.md). Some of the code requires refactoring work to split it from unrelated assets prior to migration.
 
@@ -7,7 +9,8 @@
 
 >When the appropriate code is migrated to this repoisitory, this README file will be updated.
 
-#
+<hr/>
+
 Hyperledger Aries is a blockchain-agnostic, reference implementation of the
 [agent](
 https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0004-agents/README.md),
