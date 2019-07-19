@@ -30,24 +30,26 @@ technologies that underpin decentralized identity.
 Aries work is spread across many repos. Most developers who want to solve business
 problems with decentralized identity should start with an agent framework such as:
 
+* [aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+* [aries-staticagent-python](https://github.com/hyperledger/aries-staticagent-python)
+
 [TODO: THESE LINKS ARE NOT YET ACTIVE]
 
-* [aries-agent-python](https://github.com/hyperledger/aries-agent-python/README.md)
 * [aries-agent-java](https://github.com/hyperledger/aries-agent-java/README.md)
 * [aries-agent-nodejs](https://github.com/hyperledger/aries-agent-nodejs/README.md)
 * [aries-agent-dotnet](https://github.com/hyperledger/aries-agent-dotnet/README.md)
 * [aries-agent-rust](https://github.com/hyperledger/aries-agent-rust/README.md)
 
 If you want to understand the theory and the [open standards that these frameworks
-implement](https://github.com/hyperledger/aries-rfcs/index.md), then you should visit:
+implement](https://github.com/hyperledger/aries-rfcs/blob/master/index.md), then you should visit:
 
-* [aries-rfcs](https://github.com/hyperledger/aries-rfcs/README.md)
+* [aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 
 If you want to work on the low-level features that underpin all the agent
 frameworks, then the repos you want are:
 
-* [aries-sdk](https://github.com/hyperledger/aries-sdk/README.md)
-* [aries-protocol-test-suite](https://github.com/hyperledger/aries-protocol-test-suite/README.md)
+* [aries-sdk](https://github.com/hyperledger/aries-sdk)
+* [aries-protocol-test-suite](https://github.com/hyperledger/aries-protocol-test-suite)
 
 ### Relationship to Hyperledger Indy
 
@@ -69,4 +71,3 @@ If you are using Indy SDK today to build a decentralized identity solution, keep
 doing so for the time being. Aries is not yet mature enough to build upon, but when
 it gets there, a reasonable transition process will be provided, and announcements will
 be made in community channels.
-
