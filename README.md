@@ -32,6 +32,7 @@ problems with decentralized identity should start with an agent framework such a
 
 * [aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 * [aries-staticagent-python](https://github.com/hyperledger/aries-staticagent-python)
+* [aries-framework-go](https://github.com/hyperledger/aries-framework-go)
 
 [TODO: THESE LINKS ARE NOT YET ACTIVE]
 
