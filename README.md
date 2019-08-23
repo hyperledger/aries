@@ -30,7 +30,7 @@ technologies that underpin decentralized identity.
 Aries work is spread across many repos. Most developers who want to solve business
 problems with decentralized identity should start with an agent framework such as:
 
-* [aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python/blob/master/README.md) (this repo is likely to be renamed, since it supports agents in non-cloud deployments just as well)
+* [aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python/blob/master/README.md)
 * [aries-framework-go](https://github.com/hyperledger/aries-framework-go/blob/master/README.md)
 * [aries-framework-dotnet](https://github.com/hyperledger/aries-framework-dotnet/blob/master/README.md)
 * [aries-staticagent-python](https://github.com/hyperledger/aries-staticagent-python)
