@@ -1,15 +1,15 @@
 ![Hyperledger Aries](collateral/Hyperledger_Aries_Logo_Color.png)
 
-<hr/>
+<hr>
 
 #### Migration Notice
->As of June 2019, Aries code repositories are being rapidly populated from various other locations, including Hyperledger Indy [repositories where the Aries work was incubated](https://github.com/hyperledger/indy-hipe/blob/master/README.md). Some of the code requires refactoring work to split it from unrelated assets prior to migration.
+>As of August 2019, several Aries code repositories have been  created from scratch, and others are rapidly populating from various other locations, including Hyperledger Indy [repositories where the Aries work was incubated](https://github.com/hyperledger/indy-hipe/blob/master/README.md). Some of the code requires refactoring work to split it from unrelated assets prior to migration.
 
 >The status of these code migrations is under regular discussion on the [#aries](https://chat.hyperledger.org/channel/aries) and [#indy-agent](https://chat.hyperledger.org/channel/indy-agent) channels on chat.hyperledger.org and in the [Aries Working Group](https://wiki.hyperledger.org/display/ARIES/Aries+Working+Group) weekly call. Please join us there to understand migration status and help identify places where help is needed.
 
 >When the appropriate code is migrated to this repoisitory, this README file will be updated.
 
-<hr/>
+<hr>
 
 Hyperledger Aries is a blockchain-agnostic, reference implementation of the
 [agent](
@@ -30,15 +30,14 @@ technologies that underpin decentralized identity.
 Aries work is spread across many repos. Most developers who want to solve business
 problems with decentralized identity should start with an agent framework such as:
 
-* [aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+* [aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python/blob/master/README.md) (this repo is likely to be renamed, since it supports agents in non-cloud deployments just as well)
+* [aries-framework-go](https://github.com/hyperledger/aries-framework-go/blob/master/README.md)
+* [aries-framework-dotnet](https://github.com/hyperledger/aries-framework-dotnet/blob/master/README.md)
 * [aries-staticagent-python](https://github.com/hyperledger/aries-staticagent-python)
-* [aries-framework-go](https://github.com/hyperledger/aries-framework-go)
 
 [TODO: THESE LINKS ARE NOT YET ACTIVE]
 
 * [aries-agent-java](https://github.com/hyperledger/aries-agent-java/README.md)
-* [aries-agent-nodejs](https://github.com/hyperledger/aries-agent-nodejs/README.md)
-* [aries-agent-dotnet](https://github.com/hyperledger/aries-agent-dotnet/README.md)
 * [aries-agent-rust](https://github.com/hyperledger/aries-agent-rust/README.md)
 
 If you want to understand the theory and the [open standards that these frameworks
