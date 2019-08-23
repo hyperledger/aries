@@ -1,6 +1,6 @@
 ![Hyperledger Aries](collateral/Hyperledger_Aries_Logo_Color.png)
 
-<hr/>
+<hr>
 
 #### Migration Notice
 >As of August 2019, several Aries code repositories have been  created from scratch, and others are rapidly populating from various other locations, including Hyperledger Indy [repositories where the Aries work was incubated](https://github.com/hyperledger/indy-hipe/blob/master/README.md). Some of the code requires refactoring work to split it from unrelated assets prior to migration.
@@ -9,7 +9,7 @@
 
 >When the appropriate code is migrated to this repoisitory, this README file will be updated.
 
-<hr/>
+<hr>
 
 Hyperledger Aries is a blockchain-agnostic, reference implementation of the
 [agent](
@@ -33,6 +33,7 @@ problems with decentralized identity should start with an agent framework such a
 * [aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python/blob/master/README.md) (this repo is likely to be renamed, since it supports agents in non-cloud deployments just as well)
 * [aries-framework-go](https://github.com/hyperledger/aries-framework-go/blob/master/README.md)
 * [aries-framework-dotnet](https://github.com/hyperledger/aries-framework-dotnet/blob/master/README.md)
+* [aries-staticagent-python](https://github.com/hyperledger/aries-staticagent-python)
 
 [TODO: THESE LINKS ARE NOT YET ACTIVE]
 
@@ -40,15 +41,15 @@ problems with decentralized identity should start with an agent framework such a
 * [aries-agent-rust](https://github.com/hyperledger/aries-agent-rust/README.md)
 
 If you want to understand the theory and the [open standards that these frameworks
-implement](https://github.com/hyperledger/aries-rfcs/index.md), then you should visit:
+implement](https://github.com/hyperledger/aries-rfcs/blob/master/index.md), then you should visit:
 
-* [aries-rfcs](https://github.com/hyperledger/aries-rfcs/README.md)
+* [aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 
 If you want to work on the low-level features that underpin all the agent
 frameworks, then the repos you want are:
 
-* [aries-sdk](https://github.com/hyperledger/aries-sdk/README.md)
-* [aries-protocol-test-suite](https://github.com/hyperledger/aries-protocol-test-suite/README.md)
+* [aries-sdk](https://github.com/hyperledger/aries-sdk)
+* [aries-protocol-test-suite](https://github.com/hyperledger/aries-protocol-test-suite)
 
 ### Relationship to Hyperledger Indy
 
@@ -70,4 +71,3 @@ If you are using Indy SDK today to build a decentralized identity solution, keep
 doing so for the time being. Aries is not yet mature enough to build upon, but when
 it gets there, a reasonable transition process will be provided, and announcements will
 be made in community channels.
-
