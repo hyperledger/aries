@@ -4,7 +4,7 @@ Hyperledger Aries allows trusted online peer-to-peer interactions based on
 decentralized identities and verifiable credentials. Aries includes a protocol
 definition, tools, and reference implementations. The Aries protocol supports
 identities rooted in a variety of distributed ledgers or blockchains. This
-approach to identity is often called Self Soverign Identity (SSI).
+approach to identity is often called Self Sovereign Identity (SSI).
 
 Key components of an Aries solution are:
 * [agents](
