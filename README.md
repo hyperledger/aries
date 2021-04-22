@@ -68,7 +68,7 @@ There are several other frameworks that are currently under active development, 
 - [Aries Framework - Go](https://github.com/hyperledger/aries-framework-go) is a
   pure golang framework that provides a similar architecture to ACA-Py, exposing
   an HTTP interface for it's companion controller. The framework does not
-  currently embed the Indy SDK and work on supporting a golnag-based verifiable credentials implementation is in progress.
+  currently embed the Indy SDK and work on supporting a golang-based verifiable credentials implementation is in progress.
 - [aries-sdk-ruby](https://github.com/hyperledger/aries-sdk-ruby/blob/master/README.md)
 - [aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript/blob/master/README.md)
 
