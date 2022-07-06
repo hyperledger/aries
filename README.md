@@ -21,7 +21,7 @@ https://github.com/hyperledger/aries-rfcs/blob/master/concepts/0051-dkms/README.
 Aries is a young project that is maturing quickly. As such, be warned that the
 project documentation and links may get out of out-of-date. If you find there is
 something missing, please connect with the community on the [Aries Hyperledger
-Rocketchat Channel](https://chat.hyperledger.org/channel/aries). And of course,
+Discord Channel](https://discord.com/channels/905194001349627914/905206466410057728). And of course,
 pull requests are always welcome to fix things that are confusing!
 
 If you are entirely new to the decentralized identity space and the Hyperledger
@@ -110,8 +110,8 @@ Pull requests are appreciated; please review CONTRIBUTING.md for the repository
 to which you want to contribute.
 
 You can reach other Aries developers:
-* in the RocketChat channel
-  [#aries](https://chat.hyperledger.org/channel/aries),
+* in the [Discord](https://wiki.hyperledger.org/display/HYP/Our+chat+service) channel
+  [#aries](https://discord.com/channels/905194001349627914/905206466410057728),
 * on the [mailing list](https://lists.hyperledger.org/g/aries),
 * or in the [Aries Working Group](https://wiki.hyperledger.org/display/ARIES/Aries+Working+Group) weekly call.
 
