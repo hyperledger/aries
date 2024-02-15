@@ -33,7 +33,7 @@ Start there! A companion developers edX course is planned for "early" 2020.
 If you know about decentralized identity and verifiable credentials and want to
 get started building applications on top of Aries (and Indy), the most
 consistently maintained [guide for new
-developers](https://github.com/hyperledger/aries-cloudagent-python/tree/master/docs/GettingStartedAriesDev)
+developers](https://aca-py.org/latest/gettingStarted)
 is the one included in the Aries Cloud Agent Python (ACApy):
 
 ## Repos
